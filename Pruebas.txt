@@ -1,1 +1,4 @@
-Hola
+git clone URL //Descargar repositorio
+git checkout -b BRANCH //Crear branch
+git checkout BRANCH //Cambiar a rama BRANCH
+git status //Dice en que branch estoy

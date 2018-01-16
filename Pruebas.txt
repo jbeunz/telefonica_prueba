@@ -1,4 +1,5 @@
 git clone URL //Descargar repositorio
-git checkout -b BRANCH //Crear branch
+git checkout -b BRANCH //Atajo a crear branch
 git checkout BRANCH //Cambiar a rama BRANCH
 git status //Dice en que branch estoy
+git pull //Descargar versión más actual del repositorio
